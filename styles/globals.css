@@ -1,0 +1,38 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.number{
+    width: 80px;
+    height: 80px;
+    font-size: 16pt;
+}
+
+.zero{
+    width: 160px;
+}
+
+.symbol{
+    background-color: orange;
+    color: white;
+}
+
+.resultDisplay{
+    width: 240px;
+    height: 60px;
+    font-size: 16pt;
+    text-align: right;
+}
