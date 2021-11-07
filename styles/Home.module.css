@@ -114,25 +114,3 @@
     flex-direction: column;
   }
 }
-
-.number{
-    width: 80px;
-    height: 80px;
-    font-size: 16pt;
-}
-
-.zero{
-    width: 160px;
-}
-
-.symbol{
-    background-color: orange;
-    color: white;
-}
-
-.resultDisplay{
-    width: 240px;
-    height: 60px;
-    font-size: 16pt;
-    text-align: right;
-}
